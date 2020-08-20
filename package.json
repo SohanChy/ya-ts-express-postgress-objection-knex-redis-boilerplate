@@ -27,7 +27,7 @@
     "@google-cloud/storage": "^4.7.0",
     "@overgear/yup-ast": "^1.0.3",
     "@types/lodash": "^4.14.149",
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "cache-manager": "^3.2.1",
     "command-line-args": "^5.1.1",
     "cookie-parser": "^1.4.5",
